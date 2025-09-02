@@ -40,5 +40,3 @@ Estrutura do Projeto
 
 ---  
 Fontes: DeepSeek
-GitHub: [https://github.com/DanielHenriSilva/Jogos/tree/main](https://github.com/DanielHenriSilva/Jogos/tree/main)  
-Contato: [rafaalbuquerque901@gmail.com]
